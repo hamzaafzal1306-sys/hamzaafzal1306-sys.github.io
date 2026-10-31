@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hamzify-official.sites.tab.bot/sitemap.xml
