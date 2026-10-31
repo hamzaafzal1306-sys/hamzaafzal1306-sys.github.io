@@ -8,7 +8,7 @@ window.HAMZIFY_CONFIG = {
   /* ---- APP DOWNLOAD ---------------------------------------------------- */
   // Direct link to the APK file. Leave "" (empty) to show "Download coming soon".
   APK_DOWNLOAD_URL: "https://hamzify-download.sites.tab.bot/Hamzify.apk",
-  APP_VERSION: "1.3.0",                 // e.g. "1.3.0"
+  APP_VERSION: "1.3.1",                 // e.g. "1.3.0"
   APK_FILE_SIZE: "5.3 MB",              // e.g. "6.1 MB"
   LAST_UPDATED: "31 October 2026",      // e.g. "15 November 2026"
   MINIMUM_ANDROID_VERSION: "Android 5.1 or newer", // e.g. "Android 6.0 or newer"
