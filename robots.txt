@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hamzify-official.sites.tab.bot/sitemap.xml
+Sitemap: https://hamzaafzal1306-sys.github.io/sitemap.xml

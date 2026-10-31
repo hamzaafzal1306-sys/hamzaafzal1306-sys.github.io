@@ -15,7 +15,7 @@ window.HAMZIFY_CONFIG = {
 
   /* ---- WEBSITE ADDRESS -------------------------------------------------- */
   // Used by the Share button. Change it when you move to your own domain.
-  SITE_URL: "https://hamzify-official.sites.tab.bot/",
+  SITE_URL: "https://hamzaafzal1306-sys.github.io/",
 
   /* ---- CONTACT ---------------------------------------------------------- */
   // Your public contact email. While empty, the site shows "[contact email]".
