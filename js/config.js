@@ -8,14 +8,14 @@ window.HAMZIFY_CONFIG = {
   /* ---- APP DOWNLOAD ---------------------------------------------------- */
   // Direct link to the APK file. Leave "" (empty) to show "Download coming soon".
   APK_DOWNLOAD_URL: "https://hamzify-download.sites.tab.bot/Hamzify.apk",
-  APP_VERSION: "1.3.4",                 // e.g. "1.3.0"
-  APK_FILE_SIZE: "5.3 MB",              // e.g. "6.1 MB"
+  APP_VERSION: "1.3.5",                 // e.g. "1.3.0"
+  APK_FILE_SIZE: "5.4 MB",              // e.g. "6.1 MB"
   LAST_UPDATED: "1 November 2026",      // e.g. "15 November 2026"
   MINIMUM_ANDROID_VERSION: "Android 5.1 or newer", // e.g. "Android 6.0 or newer"
 
   /* ---- WEBSITE ADDRESS -------------------------------------------------- */
   // Used by the Share button. Change it when you move to your own domain.
-  SITE_URL: "https://hamzaafzal1306-sys.github.io/",
+  SITE_URL: "https://hamzify-official.sites.tab.bot/",
 
   /* ---- CONTACT ---------------------------------------------------------- */
   // Your public contact email. While empty, the site shows "[contact email]".
